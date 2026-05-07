@@ -1,0 +1,13 @@
+/* Repérage Plomb Angers */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+*{font-family:'Inter',sans-serif;box-sizing:border-box}
+img{max-width:100%;height:auto}
+html{scroll-behavior:smooth}
+body{color:#111827;background:#fff}
+article h2{font-size:1.5rem;font-weight:700;margin:2.5rem 0 1rem;color:#111827}
+article h3{font-size:1.25rem;font-weight:600;margin:2rem 0 .75rem;color:#1f2937}
+article p{font-size:1.0625rem;line-height:1.8;margin-bottom:1.25rem;color:#374151}
+article ul,article ol{padding-left:1.5rem;margin-bottom:1rem;color:#374151}
+article li{margin-bottom:.5rem;line-height:1.7}
+article a{color:#2563eb;text-decoration:underline}
+article strong{font-weight:700;color:#111827}
